@@ -1,6 +1,6 @@
-# \# meu perfil
 
-\## Sou Carlos
+
+## Sou Carlos
 
 
 
@@ -10,10 +10,17 @@
 
 
 
-\## Meus Objetivos
+## Meus Objetivos
 
 * Dominar a Lógica de programação
-* &nbsp;Aprender mais sobre Línguas de programação
+* Aprender mais sobre Línguas de programação
+
+
+## Minha experiencia
+* Analista de TI (2024 - 2025)
+* suporte e Manutenção de Hardware,Software e Redes
+* Gerencio os projetos de TI
+ 
 
 
 
