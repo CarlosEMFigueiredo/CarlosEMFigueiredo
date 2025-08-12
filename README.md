@@ -1,5 +1,3 @@
-
-
 ## Sou Carlos
 
 
@@ -16,11 +14,17 @@
 * Aprender mais sobre Línguas de programação
 
 
+
 ## Minha experiencia
+
 * Analista de TI (2024 - 2025)
 * suporte e Manutenção de Hardware,Software e Redes
 * Gerencio os projetos de TI
- 
+
+\# MEUS PROJETOS
+
+-Aqui estão alguns dos meus projetos e exercícios desenvolvidos ao longo do curso:
 
 
 
+* Projeto 1- em desenvolvimento...
